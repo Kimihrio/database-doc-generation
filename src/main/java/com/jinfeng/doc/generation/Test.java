@@ -7,4 +7,6 @@ package com.jinfeng.doc.generation;
  **/
 public class Test {
 
+  private String msg1;
+
 }
